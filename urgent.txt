@@ -1,2 +1,10 @@
-Urgent update
+#Urgent update
+
+#Git Work Flow
+
+Main
+Develop
+Feature
+Hotfix
+Release
 
